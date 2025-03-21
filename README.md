@@ -1,11 +1,10 @@
-
 # A R packge for Dose-finding Interval Designs
 
 This repository contains a fully functional R package designed to implement various interval-based dose-finding designs, including 
 - CCD (Continual Comparison Design)
 - mTPI (Modified Toxicity Probability Interval)
 - BOIN (Bayesian Optimal Interval Design)
-- Keyboard Design
+- Keyboard Design (mTPI2)
 - UMPBI (Uniformly Most Powerful Bayesian Interval Design)
 
 This R package is based on the work of [Ruitao Lin](https://github.com/ruitaolin/IntervalDesign) with minor corrections, better documentation, and an additional approach to estimate posterior toxicity probability using Bayesian Logistic Regression Model (BLRM). 
